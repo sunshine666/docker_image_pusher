@@ -7,3 +7,4 @@ docker.getcollate.io/openmetadata/postgresql:1.6.1
 docker.getcollate.io/openmetadata/ingestion:1.6.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+golang:1.20.4-alpine
